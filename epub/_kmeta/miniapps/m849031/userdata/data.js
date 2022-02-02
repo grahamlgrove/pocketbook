@@ -1,0 +1,1 @@
+window.miniappData={"type":"popup","url":"https://www.palliativewiki.com/","_listingName":"Palliative Tools Online"}
