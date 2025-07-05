@@ -1,0 +1,1023 @@
+<Spreadsheet>
+<shortcode>DD5UCDH</shortcode>
+<label>Opioid conversion</label>
+<about>{}</about>
+<widget_language>en</widget_language>
+<resource_substitutions>[["$CREATE_RESOURCES","https://www.bookwidgets.com/create/api/resources"],[":","https://www.bookwidgets.com/create/embedded-resources"],["$APPLICATION/Resources","https://www.bookwidgets.com/create/embedded-static-resources"],["$PUBLISHED_RESOURCES","https://storage.googleapis.com/widget.bookwidgets.com"]]</resource_substitutions>
+<title searchable="true">Opioid Conversion</title>
+<instructions_title searchable="true">Instructions</instructions_title>
+<instructions richData="{&quot;blocks&quot;:[{&quot;type&quot;:&quot;unstyled&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}}]}">
+<text searchable="true">&lt;div>&lt;p/>&lt;/div></text>
+<images/>
+</instructions>
+<allow_sharing>false</allow_sharing>
+<share_action searchable="true">https://api.bookwidgets.com/api/v1/quiz/share</share_action>
+<allow_download>false</allow_download>
+<download_action searchable="true">https://api.bookwidgets.com/api/v1/quiz/download</download_action>
+<save_answers>true</save_answers>
+<uuid2>{d86dfb10-a54b-11ed-bfa8-69ba1998e8ff}</uuid2>
+<origbase_version>1</origbase_version>
+<sheets>
+<Sheet listentryname="Oral morphine">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node CellRole="readonly" TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1/3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1/1.5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1/3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1/5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1/15</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B1*5</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Subcut morphine">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2*3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node CellRole="readonly" TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2*2</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2/1.7</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2/5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B2*15</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Oral oxycodone">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3*1.5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3/2</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3/2</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3/3.4</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3/10</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B3*7.5</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Subcut oxycodone">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4*3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node CellRole="readonly" TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4*2</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4/1.7</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4/5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B4*15</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Oral hydromorphone">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5*5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node CellRole="readonly" TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5*1.7</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5*3.4</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5*1.7</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5/3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B5*25</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Subcut hydromorphone">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*15</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*10</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*3</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B6*75</node>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+<Sheet listentryname="Subcut fentanyl">
+<tabledata>
+<labels>
+<label width="100" searchable="true">B</label>
+<label width="100" searchable="true">C</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">1</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">2</label>
+<data>
+<node CellRole="readonly" TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut morphine</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/15</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">3</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/7.5</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">4</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut oxycodone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/15</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">5</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Oral hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/25</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">6</label>
+<data>
+<node TextFont="Verdana, -1" searchable="true" CellFormat="default">Subcut hydromorphone</node>
+<node CellRole="calculated" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3">B7/75</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">7</label>
+<data>
+<node TextFont="Verdana, bold, -1" searchable="true" CellFormat="default">Subcut fentanyl (micrograms)</node>
+<node CellRole="input" TextFont="Verdana, -1" searchable="true" CellFormat="number, 3"/>
+</data>
+</value>
+</values>
+</tabledata>
+</Sheet>
+</sheets>
+<submit_answers>false</submit_answers>
+<submitformfields>
+<formfield isEditable="true" isVisible="true" defaultValue="">student_name</formfield>
+<formfield isEditable="true" isVisible="true" defaultValue="">student_email</formfield>
+<formfield isEditable="true" isVisible="false" defaultValue="">student_id</formfield>
+<formfield isEditable="true" isVisible="false" defaultValue="">student_class_id</formfield>
+<formfield isEditable="false" isVisible="true" defaultValue="">teacher_email</formfield>
+</submitformfields>
+<email_should_have_grading>true</email_should_have_grading>
+<action searchable="true">https://api.bookwidgets.com/api/v1/quiz/post</action>
+<maximum_score searchable="true">10</maximum_score>
+<support_student_account value="no">No student accounts</support_student_account>
+<student_account_authproviders/>
+<student_account_school>
+<code/>
+<name/>
+</student_account_school>
+<student_account_authrestrict>true</student_account_authrestrict>
+<LocalizationMap>
+<localization>
+<phrase>Ok</phrase>
+</localization>
+<localization>
+<phrase>Your spreadsheet was sent successfully!</phrase>
+</localization>
+<localization>
+<phrase>Spreadsheet could not be sent.</phrase>
+</localization>
+<localization>
+<phrase>Unable to send spreadsheet. Make sure you're connected to the internet.</phrase>
+</localization>
+<localization>
+<phrase>Complete the form and click send to submit your spreadsheet to your teacher.</phrase>
+</localization>
+<localization>
+<phrase>Complete the form and click send to email your spreadsheet.</phrase>
+</localization>
+<localization>
+<phrase>The spreadsheet will be permanently deleted and cannot be recovered. Are you sure?</phrase>
+</localization>
+<localization>
+<phrase>Clear the spreadsheet and start over?</phrase>
+</localization>
+<localization>
+<phrase>Yes, clear</phrase>
+</localization>
+<localization>
+<phrase>No, keep</phrase>
+</localization>
+<localization>
+<phrase>Authentication error.</phrase>
+</localization>
+<localization>
+<phrase>Cancel</phrase>
+</localization>
+<localization>
+<phrase>Could not connect to server, check your internet connection.</phrase>
+</localization>
+<localization>
+<phrase>Email</phrase>
+</localization>
+<localization>
+<phrase>Forgot password?</phrase>
+</localization>
+<localization>
+<phrase>Not logged in</phrase>
+</localization>
+<localization>
+<phrase>OK</phrase>
+</localization>
+<localization>
+<phrase>Offline</phrase>
+</localization>
+<localization>
+<phrase>Online</phrase>
+</localization>
+<localization>
+<phrase>Password</phrase>
+</localization>
+<localization>
+<phrase>Please sign in</phrase>
+</localization>
+<localization>
+<phrase>Received error trying to sign in</phrase>
+</localization>
+<localization>
+<phrase>School code</phrase>
+</localization>
+<localization>
+<phrase>Server error when signing in.</phrase>
+</localization>
+<localization>
+<phrase>Sign in</phrase>
+</localization>
+<localization>
+<phrase>Sign in failed</phrase>
+</localization>
+<localization>
+<phrase>Sign in to save your answers online</phrase>
+</localization>
+<localization>
+<phrase>Sign in using</phrase>
+</localization>
+<localization>
+<phrase>Sign in using email and password</phrase>
+</localization>
+<localization>
+<phrase>Sign in using school account</phrase>
+</localization>
+<localization>
+<phrase>Sign out</phrase>
+</localization>
+<localization>
+<phrase>Sign up here</phrase>
+</localization>
+<localization>
+<phrase>Username</phrase>
+</localization>
+<localization>
+<phrase>Waiting</phrase>
+</localization>
+<localization>
+<phrase>Waiting for account sign in to complete...</phrase>
+</localization>
+<localization>
+<phrase>Widget configuration error: school doesn't exist</phrase>
+</localization>
+<localization>
+<phrase>Wrong username or password, please try again.</phrase>
+</localization>
+<localization>
+<phrase>You need to be signed in to use this widget.</phrase>
+</localization>
+<localization>
+<phrase>You're currently offline and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're currently online and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're offline</phrase>
+</localization>
+<localization>
+<phrase>Your progress on this activity will be shared with your teacher.</phrase>
+</localization>
+<localization>
+<phrase>More info</phrase>
+</localization>
+<localization>
+<phrase>Your answers couldn't be loaded because the question changed</phrase>
+</localization>
+<localization>
+<phrase>Some of your answers couldn't be loaded because the question changed</phrase>
+</localization>
+<localization>
+<phrase>Class ID</phrase>
+</localization>
+<localization>
+<phrase>Send</phrase>
+</localization>
+<localization>
+<phrase>Send Answer</phrase>
+</localization>
+<localization>
+<phrase>Send Failed</phrase>
+</localization>
+<localization>
+<phrase>Sending, please wait...</phrase>
+</localization>
+<localization>
+<phrase>Student Email</phrase>
+</localization>
+<localization>
+<phrase>Student ID</phrase>
+</localization>
+<localization>
+<phrase>Student Name</phrase>
+</localization>
+<localization>
+<phrase>Submit</phrase>
+</localization>
+<localization>
+<phrase>Teacher Email</phrase>
+</localization>
+<localization>
+<phrase>This field is required:</phrase>
+</localization>
+<localization>
+<phrase>Uploading image</phrase>
+</localization>
+<localization>
+<phrase>Uploading audio</phrase>
+</localization>
+<localization>
+<phrase>Uploading your answers...</phrase>
+</localization>
+<localization>
+<phrase>You can't specify multiple addresses for field:</phrase>
+</localization>
+<localization>
+<phrase>Submit is disabled because you're not logged in with a student account. e.g. you may be using a parent account.</phrase>
+</localization>
+<localization>
+<phrase>Sent successfully</phrase>
+</localization>
+<localization>
+<phrase>The email address you provided has not been activated.</phrase>
+</localization>
+<localization>
+<phrase>Invalid user name</phrase>
+</localization>
+<localization>
+<phrase>To prevent abuse, results can only be sent to registered email addresses.</phrase>
+</localization>
+<localization>
+<phrase>Activate by clicking on the link in the email which was sent to the address provided.</phrase>
+</localization>
+<localization>
+<phrase>You can also register at www.bookwidgets.com.</phrase>
+</localization>
+<localization>
+<phrase>Unknown error</phrase>
+</localization>
+<localization>
+<phrase>Optional Message</phrase>
+</localization>
+<localization>
+<phrase>Send</phrase>
+</localization>
+<localization>
+<phrase>Send Failed</phrase>
+</localization>
+<localization>
+<phrase>Sending, please wait...</phrase>
+</localization>
+<localization>
+<phrase>Share</phrase>
+</localization>
+<localization>
+<phrase>This field is required:</phrase>
+</localization>
+<localization>
+<phrase>To Email</phrase>
+</localization>
+<localization>
+<phrase>Uploading image</phrase>
+</localization>
+<localization>
+<phrase>Uploading your answers...</phrase>
+</localization>
+<localization>
+<phrase>You can't specify multiple addresses for field:</phrase>
+</localization>
+<localization>
+<phrase>Your Email</phrase>
+</localization>
+<localization>
+<phrase>Your Name</phrase>
+</localization>
+<localization>
+<phrase>Click here to download your PDF</phrase>
+</localization>
+<localization>
+<phrase>Could not generate PDF.  Please try again later.</phrase>
+</localization>
+<localization>
+<phrase>Download Failed</phrase>
+</localization>
+<localization>
+<phrase>Download as PDF</phrase>
+</localization>
+<localization>
+<phrase>Generate</phrase>
+</localization>
+<localization>
+<phrase>Generate PDF failed</phrase>
+</localization>
+<localization>
+<phrase>Generating PDF, please wait...</phrase>
+</localization>
+<localization>
+<phrase>PDF generated</phrase>
+</localization>
+<localization>
+<phrase>Uploading image</phrase>
+</localization>
+<localization>
+<phrase>Uploading your answers...</phrase>
+</localization>
+<localization>
+<phrase>Your Name</phrase>
+</localization>
+<localization>
+<phrase>Enter your name and click 'Generate' to generate the PDF.</phrase>
+</localization>
+<localization>
+<phrase>Download</phrase>
+</localization>
+</LocalizationMap>
+<DesignConstants widget_font="Verdana" template="Light Background" widget_color="#3498DB" widget_backgroundimage="">
+<constant>
+<name>backgroundbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>backgroundimage</name>
+<value/>
+<kind>BackgroundImage</kind>
+</constant>
+<constant>
+<name>backgroundoutline</name>
+<value>2px, dotted, #3498DB, 127</value>
+</constant>
+<constant>
+<name>titlefont</name>
+<value>Verdana,20</value>
+</constant>
+<constant>
+<name>titlecolor</name>
+<value>#3498DB</value>
+</constant>
+<constant>
+<name>titlebackground</name>
+<value>#ffffff, #ffffff, 0, 0</value>
+</constant>
+<constant>
+<name>titleborderbottom</name>
+<value>1px, solid, #bbbbbb, 255</value>
+</constant>
+<constant>
+<name>titleborderradius</name>
+<value>0px, 0px, 0px, 0px</value>
+</constant>
+<constant>
+<name>titleshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>sspopuptoolbarbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>sspopuptoolbarcolor</name>
+<value>#010539</value>
+</constant>
+<constant>
+<name>sspopuptoolbarshadow</name>
+<value>-1px, 1px, 1px, 0px, #010539, 32</value>
+</constant>
+<constant>
+<name>toolbartextbuttonfont</name>
+<value>Verdana, 14</value>
+</constant>
+<constant>
+<name>toolbartextbuttoncolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>toolbartextbuttonbackground</name>
+<value>#3498DB, #3498DB, 255, 255</value>
+</constant>
+<constant>
+<name>toolbartextbuttonborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>toolbartextbuttonbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>toolbartextbuttonborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>toolbartextbuttonborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>toolbartextbuttonborderradius</name>
+<value>$RadiusTextButton</value>
+</constant>
+<constant>
+<name>tabbarbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabbarborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabbarbackground</name>
+<value>#d0d0d0, #d0d0d0, 255, 255</value>
+</constant>
+<constant>
+<name>tabborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>tabborderradius</name>
+<value>0px, 0px, 0px, 0px</value>
+</constant>
+<constant>
+<name>tabbackground</name>
+<value>#ffffff, #ffffff, 0, 0</value>
+</constant>
+<constant>
+<name>tabfont</name>
+<value>Verdana, bold, 14</value>
+</constant>
+<constant>
+<name>tabcolor</name>
+<value>#010539</value>
+</constant>
+<constant>
+<name>selectedtabborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>selectedtabborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>selectedtabbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>selectedtabborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>selectedtabbackground</name>
+<value>#3498DB, #3498DB, 255, 255</value>
+</constant>
+<constant>
+<name>selectedtabfont</name>
+<value>Verdana, bold, 14</value>
+</constant>
+<constant>
+<name>selectedtabcolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>dialogborderradius</name>
+<value>24px, 24px, 24px, 24px</value>
+</constant>
+<constant>
+<name>dialogshadow</name>
+<value>0px, 2px, 4px, 1px, #010539, 48</value>
+</constant>
+<constant>
+<name>dialogbackground</name>
+<value>#3498DB, #3498DB, 255, 255</value>
+</constant>
+<constant>
+<name>dialogborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogcontentfont</name>
+<value>Verdana,14</value>
+</constant>
+<constant>
+<name>dialogcontentcolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>dialoglinkfont</name>
+<value>Verdana,14</value>
+</constant>
+<constant>
+<name>dialoglinkcolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>dialogtitlefont</name>
+<value>Verdana,bold,18</value>
+</constant>
+<constant>
+<name>dialogtitleborderradius</name>
+<value>0px, 0px, 0px, 0px</value>
+</constant>
+<constant>
+<name>dialogtitleshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>dialogtitlecolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>dialogtitlebackground</name>
+<value>#ffffff, #ffffff, 0, 0</value>
+</constant>
+<constant>
+<name>dialogtitleborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogtitleborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogtitlebordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogtitleborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>dialogbuttonfont</name>
+<value>Verdana,16</value>
+</constant>
+<constant>
+<name>dialogbuttonborderradius</name>
+<value>24px, 24px, 24px, 24px</value>
+</constant>
+<constant>
+<name>dialogbuttonshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>dialogbuttoncolor</name>
+<value>#ffffff</value>
+</constant>
+<constant>
+<name>dialogbuttonbackground</name>
+<value>#ffffff, #ffffff, 0, 0</value>
+</constant>
+<constant>
+<name>dialogbuttonborderleft</name>
+<value>1px, solid, #ffffff, 255</value>
+</constant>
+<constant>
+<name>dialogbuttonborderright</name>
+<value>1px, solid, #ffffff, 255</value>
+</constant>
+<constant>
+<name>dialogbuttonbordertop</name>
+<value>1px, solid, #ffffff, 255</value>
+</constant>
+<constant>
+<name>dialogbuttonborderbottom</name>
+<value>1px, solid, #ffffff, 255</value>
+</constant>
+<constant>
+<name>dialogbuttonpadding</name>
+<value>8px, 12px, 8px, 12px</value>
+</constant>
+<constant>
+<name>dialogbuttonoutline</name>
+<value>2px, dotted, #ffffff, 127</value>
+</constant>
+<constant>
+<name>scrollbarbackgroundbackground</name>
+<value>#000000, #000000, 0, 0</value>
+</constant>
+<constant>
+<name>scrollbarthumbbackground</name>
+<value>#000000, #000000, 80, 80</value>
+</constant>
+</DesignConstants>
+<cover autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</Spreadsheet>

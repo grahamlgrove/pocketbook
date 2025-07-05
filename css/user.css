@@ -40,7 +40,8 @@
 
 #kotobee .kotobeeGradient h1.title,
 #kotobee .kotobeeGradient .buttons a.button, 
-#kotobee .kotobeeGradient .buttons button  {
+#kotobee .kotobeeGradient .buttons button,
+#kotobee .kotobeeGradient button {
     color: {{headerColor}};
 }
 
@@ -56,6 +57,9 @@
 }
 #chapterMenu .bar .title{
     color: {{chaptersColor}};
+}
+#chapterMenu #chaptersContent #chaptersInner li > a:visited {
+    color: {{visitedChapterColor}} !important;
 }
 #chapterMenu #chaptersContent #chaptersInner li.selected > a,
 #chapterMenu #chaptersContent #chaptersInner li.selected > i {
@@ -83,6 +87,10 @@
     background-color: {{libraryColor}} !important;
 }
 
+#kotobee .bookItem.more .bookThumb .coverImgContainer{
+    background-color: {{libraryColor}} !important;
+}
+
 #kotobee #libraryThumbs a {
     color: {{libraryTxtColor}};
 }
@@ -96,13 +104,19 @@
     color: {{chaptersBookColor}};
 }
 
-#kotobee #libCategories .categoryList.odd{
-    background-color: {{headerBG2}};
+#kotobee #libCategories {
+    background-color: {{libraryColor}} !important;
+    background-color: {{catBgColor}} !important;
+    color: {{catColor}} !important;
 }
 
-#kotobee #libCategories .categoryList.even{
+/* #kotobee #libCategories .categoryList.odd{
+    background-color: {{headerBG2}};
+} */
+
+/* #kotobee #libCategories .categoryList.even{
     background-color: {{headerBG1}};
-}
+} */
 
 #kotobee .openBtn {
     background-color: {{openBookBg}};
@@ -118,5 +132,16 @@
 
 /* landing page for cloud ebook payments */
 #kotobee #landing {
-    background-color: {{splashBg}};
+    background-color: {{splashBgColor}};
+}
+
+#kotobee #libCategories .item,
+#kotobee #libCategories .item + .categoryList
+{
+    border-left-color: {{catHighlightColor}};
+    border-right-color: {{catHighlightColor}};
+}
+
+#kotobee #libCategories .item.expanded{
+    color: {{catHighlightColor}};
 }
