@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Pocketbook of Palliative Medicine 4</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:4426adeb-0fb9-8757-f5b5-37012c07e424</dc:identifier>
+        <meta name="cover" content="img5" />
+
+        <dc:creator>Gold Coast Palliative Care</dc:creator>
+        <dc:publisher>Palliative Wiki</dc:publisher>
+        <dc:rights>Graham Grove</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>&lt;p&gt;The Pocketbook of Palliative Medicine, 4th Edition, is a concise and targetted guidelines written for non-palliative care doctors (i.e. for hospital and primary care doctors) to help them care for patients in their last few months of life. Originally written in 2014 as the Isle of Wight Palliative Medicine Guidelines by Dr Graham Grove and Dr Paul Howard in 2014, this has been updated for the Gold Coast in 2017, 2019, 2022 and most recently in 2025. It is primarily for use within an Australian context and has been written and edited&amp;nbsp;by the Gold Coast palliative care team, including A/Prof Graham Grove, pharmacist Lorna Chess-Williams, A/Prof Andrew Broadbent, Dr Elise Maehler, Dr Jo Cerni, Dr Jo Doran, Dr Nicola Morgan, Dr Mario Mateus, Dr Tim Roberts and Dr Alex Soobratty.&amp;nbsp;An&amp;nbsp;online and up to date copy of the pocketbook can be found at www.palliativewiki.com. The authors greatly appreciate comments and thoughts from the previous, original reviewers in 2014 who included Dr Teena Silakong, Dr Mil Chan, Dr David Isaac, Dr Alaisdair Gove, Dr Jenny Collier, pharmacist Sandra Clawson, Dr David Grove and Dr Nicole Grove.&lt;/p&gt;
+</dc:description>
+        <meta property="dcterms:modified">2025-07-11T22:42:57Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.9.1</meta>
+        <meta property="kotobee:build">3421</meta>
+
+        <!-- DAISY requirements -->
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual, visual</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta> 
+        <meta property="schema:accessibilityHazard">none</meta> 
+        <meta property="schema:accessibilitySummary">The publication contains structural and page navigation.</meta>
+
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/epubypzqs/EPUB/xhtml/s7gfwq.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/epubypzqs/EPUB/xhtml/ch1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/epubypzqs/EPUB/xhtml/s7rzzs.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/epubypzqs/EPUB/xhtml/s8eysj.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/epubypzqs/EPUB/xhtml/sitixe.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/epubypzqs/EPUB/xhtml/slluc4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/epubypzqs/EPUB/xhtml/syjagt.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/epubypzqs/EPUB/xhtml/s3dqjq.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/epubypzqs/EPUB/xhtml/s2bfky.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/epubypzqs/EPUB/xhtml/sjyx0q.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/epubypzqs/EPUB/xhtml/sk2mts.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/epubypzqs/EPUB/xhtml/smhuy0.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/epubypzqs/EPUB/xhtml/sjt9a9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/epubypzqs/EPUB/xhtml/sly7d5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/epubypzqs/EPUB/xhtml/snam02.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/epubypzqs/EPUB/xhtml/swu12e.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/epubypzqs/EPUB/xhtml/sfil6l.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/epubypzqs/EPUB/xhtml/sav0c4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/epubypzqs/EPUB/xhtml/sdegiv.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/epubypzqs/EPUB/xhtml/shm7zu.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/epubypzqs/EPUB/xhtml/skv1dv.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/epubypzqs/EPUB/xhtml/srv08z.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/epubypzqs/EPUB/xhtml/s5lqai.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/epubypzqs/EPUB/xhtml/slgmmq.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/epubypzqs/EPUB/xhtml/s31up4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/epubypzqs/EPUB/xhtml/sj65c3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/epubypzqs/EPUB/xhtml/sonfqa.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/epubypzqs/EPUB/xhtml/sr1i5a.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/epubypzqs/EPUB/xhtml/shwml9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/epubypzqs/EPUB/xhtml/sg460h.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/epubypzqs/EPUB/xhtml/s9hlnr.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/epubypzqs/EPUB/xhtml/sa1dnb.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/epubypzqs/EPUB/xhtml/snm2ce.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/epubypzqs/EPUB/xhtml/suqq4s.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/epubypzqs/EPUB/xhtml/smwn45.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/epubypzqs/EPUB/xhtml/s9mrh3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/epubypzqs/EPUB/xhtml/s0fxri.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/epubypzqs/EPUB/xhtml/sigmes.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/epubypzqs/EPUB/xhtml/s9djjr.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/epubypzqs/EPUB/xhtml/sxps27.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html40" href="xhtml/epubypzqs/EPUB/xhtml/snkidu.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html41" href="xhtml/epubypzqs/EPUB/xhtml/sudnhf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html42" href="xhtml/epubypzqs/EPUB/xhtml/sm4rfl.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html43" href="xhtml/epubypzqs/EPUB/xhtml/ssue8y.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html44" href="xhtml/epubypzqs/EPUB/xhtml/sq721i.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html45" href="xhtml/epubypzqs/EPUB/xhtml/s1gnly.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html46" href="xhtml/epubypzqs/EPUB/xhtml/sikeqg.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html47" href="xhtml/epubypzqs/EPUB/xhtml/s2wx16.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html48" href="xhtml/epubypzqs/EPUB/xhtml/sfpuce.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html49" href="xhtml/raw/smy8hn.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html50" href="xhtml/epubypzqs/EPUB/xhtml/sfm6jq.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html51" href="xhtml/epubypzqs/EPUB/xhtml/ssq7bq.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html52" href="xhtml/epubypzqs/EPUB/xhtml/saj7qj.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html53" href="xhtml/epubypzqs/EPUB/xhtml/sw5oxi.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html54" href="xhtml/epubypzqs/EPUB/xhtml/sdta1d.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html55" href="xhtml/epubypzqs/EPUB/xhtml/sfx8ti.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html56" href="xhtml/epubypzqs/EPUB/xhtml/skh45v.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html57" href="xhtml/epubypzqs/EPUB/xhtml/sdtgq9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html58" href="xhtml/epubypzqs/EPUB/xhtml/s1j36y.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html59" href="xhtml/epubypzqs/EPUB/xhtml/so8q24.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html60" href="xhtml/epubypzqs/EPUB/xhtml/sanb0w.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html61" href="xhtml/epubypzqs/EPUB/xhtml/svjmo1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html62" href="xhtml/epubypzqs/EPUB/xhtml/sxb8vx.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html63" href="xhtml/epubypzqs/EPUB/xhtml/sss3dk.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html64" href="xhtml/epubypzqs/EPUB/xhtml/s25esa.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html65" href="xhtml/epubypzqs/EPUB/xhtml/sc7iqy.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html66" href="xhtml/epubypzqs/EPUB/xhtml/s7xbgo.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html67" href="xhtml/epubypzqs/EPUB/xhtml/sf596o.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html68" href="xhtml/epubypzqs/EPUB/xhtml/st608h.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html69" href="xhtml/epubypzqs/EPUB/xhtml/ssd9h4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html70" href="xhtml/epubypzqs/EPUB/xhtml/s6tmtb.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html71" href="xhtml/epubypzqs/EPUB/xhtml/sv1n9d.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html72" href="xhtml/epubypzqs/EPUB/xhtml/s7jwdw.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html73" href="xhtml/epubypzqs/EPUB/xhtml/s2fa7a.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html74" href="xhtml/epubypzqs/EPUB/xhtml/syavh0.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html75" href="xhtml/epubypzqs/EPUB/xhtml/so4exe.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html76" href="xhtml/raw/so0p9m.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html77" href="xhtml/raw/s96ekx.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html78" href="xhtml/epubypzqs/EPUB/xhtml/sajzlb.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html79" href="xhtml/epubypzqs/EPUB/xhtml/s530xo.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html80" href="xhtml/epubypzqs/EPUB/xhtml/sqchdf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html81" href="xhtml/epubypzqs/EPUB/xhtml/ss8vps.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html82" href="xhtml/raw/sdbxqd.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html83" href="xhtml/epubypzqs/EPUB/xhtml/sydm84.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html84" href="xhtml/raw/s4izqd.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html85" href="xhtml/raw/sf67x5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html86" href="xhtml/raw/su38mf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html87" href="xhtml/raw/sbxq0r.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html88" href="xhtml/raw/s7kfuf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html89" href="xhtml/raw/serz6w.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html90" href="xhtml/raw/si8w3j.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html91" href="xhtml/raw/s60oay.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html92" href="xhtml/raw/scboqn.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html93" href="xhtml/raw/s28n1u.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html94" href="xhtml/raw/sjgsne.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html95" href="xhtml/raw/s0mexr.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html96" href="xhtml/raw/s78eru.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html97" href="xhtml/raw/s1aewy.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html98" href="xhtml/raw/s1fqhj.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html99" href="xhtml/epubypzqs/EPUB/xhtml/sr4zjy.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html100" href="xhtml/raw/s7joxv.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html101" href="xhtml/raw/s4cmft.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html102" href="xhtml/raw/ske760.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html103" href="xhtml/epubypzqs/EPUB/xhtml/s0unic.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html104" href="xhtml/epubypzqs/EPUB/xhtml/sknzpb.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html105" href="xhtml/epubypzqs/EPUB/xhtml/sxl4ep.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/ascites.png" media-type="image/png"/>
+<item id="img1" href="imgs/bladder_sagittal.jpg" media-type="image/jpeg"/>
+<item id="img2" href="imgs/bladder_transverse.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img4" href="imgs/image.png" media-type="image/png"/>
+<item id="img5" href="imgs/usersgrahamgrovedo01.png" properties="cover-image" media-type="image/png"/>
+<item id="img6" href="imgs/usersgrahamgrovedown.png" media-type="image/png"/>
+<item id="img7" href="imgs/vte.PNG" media-type="image/png"/>
+<item id="img8" href="js/widgets/opioid_conversion.zip/css/fonts/icomoon.svg" media-type="image/svg+xml"/>
+<item id="img9" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" media-type="image/png"/>
+<item id="img10" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" media-type="image/png"/>
+<item id="img11" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" media-type="image/png"/>
+<item id="img12" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" media-type="image/png"/>
+<item id="img13" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" media-type="image/png"/>
+<item id="img14" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" media-type="image/png"/>
+<item id="img15" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" media-type="image/png"/>
+<item id="img16" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" media-type="image/png"/>
+<item id="img17" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-icons_222222_256x240.png" media-type="image/png"/>
+<item id="img18" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-icons_2e83ff_256x240.png" media-type="image/png"/>
+<item id="img19" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-icons_454545_256x240.png" media-type="image/png"/>
+<item id="img20" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-icons_888888_256x240.png" media-type="image/png"/>
+<item id="img21" href="js/widgets/opioid_conversion.zip/css/smoothness/images/ui-icons_cd0a0a_256x240.png" media-type="image/png"/>
+<item id="img22" href="js/widgets/opioid_conversion.zip/Default.png" media-type="image/png"/>
+<item id="img23" href="js/widgets/opioid_conversion.zip/img/backbutton@2x.png" media-type="image/png"/>
+<item id="img24" href="js/widgets/opioid_conversion.zip/img/ibw-ribbon.png" media-type="image/png"/>
+<item id="img25" href="js/widgets/opioid_convert.zip/css/fonts/icomoon.svg" media-type="image/svg+xml"/>
+<item id="img26" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" media-type="image/png"/>
+<item id="img27" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" media-type="image/png"/>
+<item id="img28" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" media-type="image/png"/>
+<item id="img29" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" media-type="image/png"/>
+<item id="img30" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" media-type="image/png"/>
+<item id="img31" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" media-type="image/png"/>
+<item id="img32" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" media-type="image/png"/>
+<item id="img33" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" media-type="image/png"/>
+<item id="img34" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-icons_222222_256x240.png" media-type="image/png"/>
+<item id="img35" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-icons_2e83ff_256x240.png" media-type="image/png"/>
+<item id="img36" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-icons_454545_256x240.png" media-type="image/png"/>
+<item id="img37" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-icons_888888_256x240.png" media-type="image/png"/>
+<item id="img38" href="js/widgets/opioid_convert.zip/css/smoothness/images/ui-icons_cd0a0a_256x240.png" media-type="image/png"/>
+<item id="img39" href="js/widgets/opioid_convert.zip/Default.png" media-type="image/png"/>
+<item id="img40" href="js/widgets/opioid_convert.zip/img/backbutton@2x.png" media-type="image/png"/>
+<item id="img41" href="js/widgets/opioid_convert.zip/img/ibw-ribbon.png" media-type="image/png"/>
+<item id="img42" href="xhtml/epubypzqs/EPUB/imgs/palliativeicon.JPG" media-type="image/jpeg"/>
+<item id="img43" href="../_kmeta/imgUser/iosicon.png" media-type="image/png"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="css3" href="js/widgets/opioid_conversion.zip/config.css" media-type="text/css"/>
+<item id="css4" href="js/widgets/opioid_conversion.zip/css/bookwidgets.css" media-type="text/css"/>
+<item id="css5" href="js/widgets/opioid_conversion.zip/css/bwicons.css" media-type="text/css"/>
+<item id="css6" href="js/widgets/opioid_conversion.zip/css/bwtable.css" media-type="text/css"/>
+<item id="css7" href="js/widgets/opioid_conversion.zip/css/calculatingtable.css" media-type="text/css"/>
+<item id="css8" href="js/widgets/opioid_conversion.zip/css/jquery.dialogsheet.css" media-type="text/css"/>
+<item id="css9" href="js/widgets/opioid_conversion.zip/css/smoothness/jquery-ui-1.8.23.css" media-type="text/css"/>
+<item id="css10" href="js/widgets/opioid_conversion.zip/css/studentworksubmitter.css" media-type="text/css"/>
+<item id="css11" href="js/widgets/opioid_conversion.zip/js/Spreadsheet.css" media-type="text/css"/>
+<item id="css12" href="js/widgets/opioid_convert.zip/config.css" media-type="text/css"/>
+<item id="css13" href="js/widgets/opioid_convert.zip/css/bookwidgets.css" media-type="text/css"/>
+<item id="css14" href="js/widgets/opioid_convert.zip/css/bwicons.css" media-type="text/css"/>
+<item id="css15" href="js/widgets/opioid_convert.zip/css/bwtable.css" media-type="text/css"/>
+<item id="css16" href="js/widgets/opioid_convert.zip/css/calculatingtable.css" media-type="text/css"/>
+<item id="css17" href="js/widgets/opioid_convert.zip/css/jquery.dialogsheet.css" media-type="text/css"/>
+<item id="css18" href="js/widgets/opioid_convert.zip/css/smoothness/jquery-ui-1.8.23.css" media-type="text/css"/>
+<item id="css19" href="js/widgets/opioid_convert.zip/css/studentworksubmitter.css" media-type="text/css"/>
+<item id="css20" href="js/widgets/opioid_convert.zip/js/Spreadsheet.css" media-type="text/css"/>
+<item id="css21" href="xhtml/epubypzqs/EPUB/css/base.css" media-type="text/css"/>
+<item id="css22" href="xhtml/epubypzqs/EPUB/css/global.css" media-type="text/css"/>
+<item id="css23" href="xhtml/epubypzqs/EPUB/css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
+<item id="js3" href="js/widgets/opioid_conversion.zip/config.js" media-type="text/javascript"/>
+<item id="js4" href="js/widgets/opioid_conversion.zip/js/hammer-2.0.4.min.js" media-type="text/javascript"/>
+<item id="js5" href="js/widgets/opioid_conversion.zip/js/hammer.fakemultitouch.js" media-type="text/javascript"/>
+<item id="js6" href="js/widgets/opioid_conversion.zip/js/hammer.min.js" media-type="text/javascript"/>
+<item id="js7" href="js/widgets/opioid_conversion.zip/js/jquery-1.8.min.js" media-type="text/javascript"/>
+<item id="js8" href="js/widgets/opioid_conversion.zip/js/jquery-ui-1.8.23.min.js" media-type="text/javascript"/>
+<item id="js9" href="js/widgets/opioid_conversion.zip/js/jquery.dialogsheet.js" media-type="text/javascript"/>
+<item id="js10" href="js/widgets/opioid_conversion.zip/js/jquery.hammer-2.0.0.js" media-type="text/javascript"/>
+<item id="js11" href="js/widgets/opioid_conversion.zip/js/jquery.hammer.min.js" media-type="text/javascript"/>
+<item id="js12" href="js/widgets/opioid_conversion.zip/js/jquery.ui.touch-punch.min.js" media-type="text/javascript"/>
+<item id="js13" href="js/widgets/opioid_conversion.zip/js/Spreadsheet.js" media-type="text/javascript"/>
+<item id="js14" href="js/widgets/opioid_conversion.zip/js/vendor.js" media-type="text/javascript"/>
+<item id="js15" href="js/widgets/opioid_convert.zip/config.js" media-type="text/javascript"/>
+<item id="js16" href="js/widgets/opioid_convert.zip/js/hammer-2.0.4.min.js" media-type="text/javascript"/>
+<item id="js17" href="js/widgets/opioid_convert.zip/js/hammer.fakemultitouch.js" media-type="text/javascript"/>
+<item id="js18" href="js/widgets/opioid_convert.zip/js/hammer.min.js" media-type="text/javascript"/>
+<item id="js19" href="js/widgets/opioid_convert.zip/js/jquery-1.8.min.js" media-type="text/javascript"/>
+<item id="js20" href="js/widgets/opioid_convert.zip/js/jquery-ui-1.8.23.min.js" media-type="text/javascript"/>
+<item id="js21" href="js/widgets/opioid_convert.zip/js/jquery.dialogsheet.js" media-type="text/javascript"/>
+<item id="js22" href="js/widgets/opioid_convert.zip/js/jquery.hammer-2.0.0.js" media-type="text/javascript"/>
+<item id="js23" href="js/widgets/opioid_convert.zip/js/jquery.hammer.min.js" media-type="text/javascript"/>
+<item id="js24" href="js/widgets/opioid_convert.zip/js/jquery.ui.touch-punch.min.js" media-type="text/javascript"/>
+<item id="js25" href="js/widgets/opioid_convert.zip/js/Spreadsheet.js" media-type="text/javascript"/>
+<item id="js26" href="js/widgets/opioid_convert.zip/js/vendor.js" media-type="text/javascript"/>
+<item id="js27" href="xhtml/epubypzqs/EPUB/js/global.js" media-type="text/javascript"/>
+<item id="js28" href="xhtml/epubypzqs/EPUB/js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js29" href="xhtml/epubypzqs/_kmeta/config.js" media-type="text/javascript"/>
+<item id="js30" href="../_kmeta/config.js" media-type="text/javascript"/>
+<item id="txt0" href="js/widgets/opioid_conversion.zip/config.xml" media-type="application/xml"/>
+<item id="txt1" href="js/widgets/opioid_conversion.zip/imsmanifest.xml" media-type="application/xml"/>
+<item id="txt2" href="js/widgets/opioid_conversion.zip/Info.plist" media-type="text/plain"/>
+<item id="txt3" href="js/widgets/opioid_conversion.zip/resourcemap.json" media-type="application/json"/>
+<item id="txt4" href="js/widgets/opioid_convert.zip/config.xml" media-type="application/xml"/>
+<item id="txt5" href="js/widgets/opioid_convert.zip/imsmanifest.xml" media-type="application/xml"/>
+<item id="txt6" href="js/widgets/opioid_convert.zip/Info.plist" media-type="text/plain"/>
+<item id="txt7" href="js/widgets/opioid_convert.zip/resourcemap.json" media-type="application/json"/>
+<item id="txt8" href="../_kmeta/content.json" media-type="application/json"/>
+<item id="txt9" href="js/widgets/opioid_conversion.zip/index.html" media-type="text/html"/>
+<item id="txt10" href="js/widgets/opioid_convert.zip/index.html" media-type="text/html"/>
+<item id="font0" href="js/widgets/opioid_conversion.zip/css/fonts/icomoon.eot" media-type="application/vnd.ms-fontobject"/>
+<item id="font1" href="js/widgets/opioid_conversion.zip/css/fonts/icomoon.ttf" media-type="application/x-font-ttf"/>
+<item id="font2" href="js/widgets/opioid_conversion.zip/css/fonts/icomoon.woff" media-type="application/font-woff"/>
+<item id="font3" href="js/widgets/opioid_convert.zip/css/fonts/icomoon.eot" media-type="application/vnd.ms-fontobject"/>
+<item id="font4" href="js/widgets/opioid_convert.zip/css/fonts/icomoon.ttf" media-type="application/x-font-ttf"/>
+<item id="font5" href="js/widgets/opioid_convert.zip/css/fonts/icomoon.woff" media-type="application/font-woff"/>
+
+    <item id="miniapp0" href="../_kmeta/miniapps/m737300/assets/fonts/devanagari.woff2" media-type="application/font-woff2"/>
+<item id="miniapp1" href="../_kmeta/miniapps/m737300/assets/fonts/latin-ext.woff2" media-type="application/font-woff2"/>
+<item id="miniapp2" href="../_kmeta/miniapps/m737300/assets/fonts/latin.woff2" media-type="application/font-woff2"/>
+<item id="miniapp3" href="../_kmeta/miniapps/m737300/config.js" media-type="text/javascript"/>
+<item id="miniapp4" href="../_kmeta/miniapps/m737300/icon.png" media-type="image/png"/>
+<item id="miniapp5" href="../_kmeta/miniapps/m737300/userdata/data.js" media-type="text/javascript"/>
+<item id="miniapp6" href="../_kmeta/miniapps/m737300/userdata/data.json" media-type="application/json"/>
+<item id="miniapp7" href="../_kmeta/miniapps.js" media-type="text/javascript"/>
+
+</manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+<itemref idref="html25" properties="rendition:layout-reflowable"/>
+<itemref idref="html26" properties="rendition:layout-reflowable"/>
+<itemref idref="html27" properties="rendition:layout-reflowable"/>
+<itemref idref="html28" properties="rendition:layout-reflowable"/>
+<itemref idref="html29" properties="rendition:layout-reflowable"/>
+<itemref idref="html30" properties="rendition:layout-reflowable"/>
+<itemref idref="html31" properties="rendition:layout-reflowable"/>
+<itemref idref="html32" properties="rendition:layout-reflowable"/>
+<itemref idref="html33" properties="rendition:layout-reflowable"/>
+<itemref idref="html34" properties="rendition:layout-reflowable"/>
+<itemref idref="html35" properties="rendition:layout-reflowable"/>
+<itemref idref="html36" properties="rendition:layout-reflowable"/>
+<itemref idref="html37" properties="rendition:layout-reflowable"/>
+<itemref idref="html38" properties="rendition:layout-reflowable"/>
+<itemref idref="html39" properties="rendition:layout-reflowable"/>
+<itemref idref="html40" properties="rendition:layout-reflowable"/>
+<itemref idref="html41" properties="rendition:layout-reflowable"/>
+<itemref idref="html42" properties="rendition:layout-reflowable"/>
+<itemref idref="html43" properties="rendition:layout-reflowable"/>
+<itemref idref="html44" properties="rendition:layout-reflowable"/>
+<itemref idref="html45" properties="rendition:layout-reflowable"/>
+<itemref idref="html46" properties="rendition:layout-reflowable"/>
+<itemref idref="html47" properties="rendition:layout-reflowable"/>
+<itemref idref="html48" properties="rendition:layout-reflowable"/>
+<itemref idref="html49" properties="rendition:layout-reflowable"/>
+<itemref idref="html50" properties="rendition:layout-reflowable"/>
+<itemref idref="html51" properties="rendition:layout-reflowable"/>
+<itemref idref="html52" properties="rendition:layout-reflowable"/>
+<itemref idref="html53" properties="rendition:layout-reflowable"/>
+<itemref idref="html54" properties="rendition:layout-reflowable"/>
+<itemref idref="html55" properties="rendition:layout-reflowable"/>
+<itemref idref="html56" properties="rendition:layout-reflowable"/>
+<itemref idref="html57" properties="rendition:layout-reflowable"/>
+<itemref idref="html58" properties="rendition:layout-reflowable"/>
+<itemref idref="html59" properties="rendition:layout-reflowable"/>
+<itemref idref="html60" properties="rendition:layout-reflowable"/>
+<itemref idref="html61" properties="rendition:layout-reflowable"/>
+<itemref idref="html62" properties="rendition:layout-reflowable"/>
+<itemref idref="html63" properties="rendition:layout-reflowable"/>
+<itemref idref="html64" properties="rendition:layout-reflowable"/>
+<itemref idref="html65" properties="rendition:layout-reflowable"/>
+<itemref idref="html66" properties="rendition:layout-reflowable"/>
+<itemref idref="html67" properties="rendition:layout-reflowable"/>
+<itemref idref="html68" properties="rendition:layout-reflowable"/>
+<itemref idref="html69" properties="rendition:layout-reflowable"/>
+<itemref idref="html70" properties="rendition:layout-reflowable"/>
+<itemref idref="html71" properties="rendition:layout-reflowable"/>
+<itemref idref="html72" properties="rendition:layout-reflowable"/>
+<itemref idref="html73" properties="rendition:layout-reflowable"/>
+<itemref idref="html74" properties="rendition:layout-reflowable"/>
+<itemref idref="html75" properties="rendition:layout-reflowable"/>
+<itemref idref="html76" properties="rendition:layout-reflowable"/>
+<itemref idref="html77" properties="rendition:layout-reflowable"/>
+<itemref idref="html78" properties="rendition:layout-reflowable"/>
+<itemref idref="html79" properties="rendition:layout-reflowable"/>
+<itemref idref="html80" properties="rendition:layout-reflowable"/>
+<itemref idref="html81" properties="rendition:layout-reflowable"/>
+<itemref idref="html82" properties="rendition:layout-reflowable"/>
+<itemref idref="html83" properties="rendition:layout-reflowable"/>
+<itemref idref="html84" properties="rendition:layout-reflowable"/>
+<itemref idref="html85" properties="rendition:layout-reflowable"/>
+<itemref idref="html86" properties="rendition:layout-reflowable"/>
+<itemref idref="html87" properties="rendition:layout-reflowable"/>
+<itemref idref="html88" properties="rendition:layout-reflowable"/>
+<itemref idref="html89" properties="rendition:layout-reflowable"/>
+<itemref idref="html90" properties="rendition:layout-reflowable"/>
+<itemref idref="html91" properties="rendition:layout-reflowable"/>
+<itemref idref="html92" properties="rendition:layout-reflowable"/>
+<itemref idref="html93" properties="rendition:layout-reflowable"/>
+<itemref idref="html94" properties="rendition:layout-reflowable"/>
+<itemref idref="html95" properties="rendition:layout-reflowable"/>
+<itemref idref="html96" properties="rendition:layout-reflowable"/>
+<itemref idref="html97" properties="rendition:layout-reflowable"/>
+<itemref idref="html98" properties="rendition:layout-reflowable"/>
+<itemref idref="html99" properties="rendition:layout-reflowable"/>
+<itemref idref="html100" properties="rendition:layout-reflowable"/>
+<itemref idref="html101" properties="rendition:layout-reflowable"/>
+<itemref idref="html102" properties="rendition:layout-reflowable"/>
+<itemref idref="html103" properties="rendition:layout-reflowable"/>
+<itemref idref="html104" properties="rendition:layout-reflowable"/>
+<itemref idref="html105" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>
